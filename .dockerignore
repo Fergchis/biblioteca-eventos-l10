@@ -3,4 +3,6 @@ dist
 *.tsbuildinfo
 .env
 .env.*
+!.env.example
 .git
+.github
